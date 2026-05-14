@@ -70,8 +70,8 @@ https://www.python.org/downloads/
 
 При установке включите пункт:
 
-```text
 Add Python to PATH
+
 2. Скачайте проект
 
 Через GitHub:
